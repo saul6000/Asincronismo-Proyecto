@@ -19,5 +19,8 @@
   "homepage": "https://github.com/saul6000/Asincronismo-Proyecto#readme",
   "dependencies": {
     "fetch": "^1.1.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
