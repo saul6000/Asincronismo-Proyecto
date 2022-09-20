@@ -3,14 +3,14 @@ const sobre = document.querySelector('.About');
 const proyectos = document.querySelector('.Projects');
 const contactos = document.querySelector('.Contact');
 
-/*descripcion.innerText=`Mi nombre es Saul Mendoza y soy de Ecuador 
+descripcion.innerText=`Mi nombre es Saul Mendoza y soy de Ecuador 
 me preparo para mejorar como development`;
 const About2 = ()=>{window.location = 'about.html';return ;};
 const Proyects = ()=>{window.location = 'proyects.html';return ;};
 const Contact = ()=>{ window.location = 'contacts.html';return ;};
 sobre.addEventListener('click',About2);
 proyectos.addEventListener('click',Proyects);
-contactos.addEventListener('click',Contact);*/
+contactos.addEventListener('click',Contact);
 const content = null || document.querySelector('#content');
 //CODIGO DE GET DE LA API ///
 const API = 'https://youtube138.p.rapidapi.com/channel/videos/?id=UC3mdvPT--C7MEgkB2bYyPRQ&hl=en&gl=US'
