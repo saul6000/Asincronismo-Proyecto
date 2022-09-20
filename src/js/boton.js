@@ -1,5 +1,5 @@
 const Principal = ()=>{
-    window.location = 'index.html';
+    window.location = 'https://saul6000.github.io/Asincronismo-Proyecto/';
       return ;
 };
 const principal = document.querySelector('.Principal');

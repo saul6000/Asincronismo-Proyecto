@@ -5,9 +5,9 @@ const contactos = document.querySelector('.Contact');
 
 descripcion.innerText=`Mi nombre es Saul Mendoza y soy de Ecuador 
 me preparo para mejorar como development`;
-const About2 = ()=>{window.location = 'about.html';return ;};
-const Proyects = ()=>{window.location = 'proyects.html';return ;};
-const Contact = ()=>{ window.location = 'contacts.html';return ;};
+const About2 = ()=>{window.location = 'https://saul6000.github.io/Asincronismo-Proyecto/about.html';return ;};
+const Proyects = ()=>{window.location = 'https://saul6000.github.io/Asincronismo-Proyecto/proyects.html';return ;};
+const Contact = ()=>{ window.location = 'https://saul6000.github.io/Asincronismo-Proyecto/contacts.html';return ;};
 sobre.addEventListener('click',About2);
 proyectos.addEventListener('click',Proyects);
 contactos.addEventListener('click',Contact);
